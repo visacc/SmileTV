@@ -138,6 +138,35 @@
     "dh": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布-紫夜"
+    },
+    "jikun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "基库-紫夜"
+    },
+    "danazi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子-紫夜"
+    },
+    "xingba": {
+      "api": "https://xingba222.com/api.php/provide/vod",
+      "name": "杏吧-紫夜"
+    },
+    "souav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜AV-紫夜"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔-紫夜"
+    },
+    "baiwang": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万-紫夜"
+    },
+    "huangseck": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "凰仓库-紫夜",
+      "detail": "https://hsckzy.vip"
     }
   }
 }
